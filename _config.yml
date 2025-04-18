@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Aakriti Agarwal"
-  avatar           : "/assets/images/cat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My Personal Blog"
   location         : "Milkyway"
   email            :
